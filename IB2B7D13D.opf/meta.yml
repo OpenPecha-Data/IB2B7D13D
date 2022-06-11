@@ -1,0 +1,24 @@
+id: IB2B7D13D
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:33:05.215078'
+last_modified: '2022-06-11T13:33:05.215085'
+parser: null
+source_metadata:
+  title: Buddhagupta
+  language: pt
+  description: Instructions
+  volume:
+    f2BEC:
+      title: An Extensive Commentary on the Four Immeasurables
+      base_file: f2BEC.txt
+      order: 1
+      parent: Instructions
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
